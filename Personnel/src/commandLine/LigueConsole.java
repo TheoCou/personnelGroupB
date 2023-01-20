@@ -9,6 +9,8 @@ import commandLineMenus.Menu;
 import commandLineMenus.Option;
 
 import personnel.*;
+import java.time.LocalDate;
+import java.time.format.*;
 
 public class LigueConsole 
 {
@@ -27,7 +29,7 @@ public class LigueConsole
 		menu.add(afficherLigues());
 		menu.add(ajouterLigue());
 		menu.add(selectionnerLigue());
-		menu.addBack("o");
+		menu.addBack("q");
 		return menu;
 	}
 
@@ -98,8 +100,11 @@ public class LigueConsole
 				() -> 
 				{
 					ligue.addEmploye(getString("nom : "), 
-						getString("prenom : "), getString("mail : "), 
-						getString("password : "));
+						getString("prenom : "),
+						getString("mail : "), 
+						getString("password : "),
+						getDate("Date d'arrivée JJ-MM-YYYY : "),
+                        getDate("Date de départ JJ-MM-YYYY : "));
 				}
 		);
 	}
