@@ -27,7 +27,7 @@ public class LigueConsole
 		menu.add(afficherLigues());
 		menu.add(ajouterLigue());
 		menu.add(selectionnerLigue());
-		menu.addBack("q");
+		menu.addBack("o");
 		return menu;
 	}
 

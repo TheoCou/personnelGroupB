@@ -1,0 +1,112 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1671657992326" ID="ID_147542714" MODIFIED="1672620297158" STYLE="fork" TEXT="Accueil">
+<font NAME="Heiti SC" SIZE="20"/>
+<node COLOR="#000000" CREATED="1671658480409" HGAP="101" ID="ID_876282928" MODIFIED="1672620623837" POSITION="left" STYLE="bubble" TEXT="Quitter" VSHIFT="-241">
+<edge COLOR="#000000" WIDTH="8"/>
+<font NAME="Heiti SC" SIZE="18"/>
+<node COLOR="#0033ff" CREATED="1671659964334" HGAP="42" ID="ID_573713570" MODIFIED="1672620623837" TEXT="Quitter sans enregistrer" VSHIFT="71">
+<edge COLOR="#0033ff" WIDTH="4"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#0033ff" CREATED="1672491318854" HGAP="42" ID="ID_945655494" MODIFIED="1672620623837" TEXT="Quitter et enregistrer" VSHIFT="37">
+<edge COLOR="#0033ff" WIDTH="4"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#111111" CREATED="1672491318854" HGAP="42" ID="ID_902128588" MODIFIED="1672622739363" TEXT="Retour" VSHIFT="37">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#000000" CREATED="1671658480409" HGAP="97" ID="ID_1742656183" MODIFIED="1672620904287" POSITION="right" STYLE="bubble" TEXT="G&#xe9;rer le compte root" VSHIFT="-38">
+<edge COLOR="#000000" WIDTH="8"/>
+<font NAME="Heiti SC" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1671659964334" HGAP="67" ID="ID_1927185275" MODIFIED="1672620297158" STYLE="bubble" TEXT="Afficher les employ&#xe9;s" VSHIFT="20">
+<edge COLOR="#00b439" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#00b439" CREATED="1672491318854" HGAP="69" ID="ID_1987215490" MODIFIED="1672620368322" STYLE="bubble" TEXT="Changer le nom" VSHIFT="49">
+<edge COLOR="#00b439" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#00b439" CREATED="1672491318854" HGAP="71" ID="ID_891724719" MODIFIED="1672620297158" STYLE="bubble" TEXT="Changer le pr&#xe9;nom" VSHIFT="43">
+<edge COLOR="#00b439" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#00b439" CREATED="1672491318854" HGAP="72" ID="ID_1473901914" MODIFIED="1672620368322" STYLE="bubble" TEXT="Changer le mail" VSHIFT="38">
+<edge COLOR="#00b439" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#00b439" CREATED="1672491318854" HGAP="73" ID="ID_1362831189" MODIFIED="1672620368323" STYLE="bubble" TEXT="Changer le mot de passe" VSHIFT="38">
+<edge COLOR="#00b439" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#111111" CREATED="1672491318854" HGAP="76" ID="ID_382926133" MODIFIED="1672622752494" TEXT="Retour" VSHIFT="39">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#000000" CREATED="1671658480409" HGAP="101" ID="ID_1590446953" MODIFIED="1672623075307" POSITION="right" STYLE="bubble" TEXT="G&#xe9;rer les ligues" VSHIFT="-212">
+<edge COLOR="#000000" WIDTH="8"/>
+<font NAME="Heiti SC" SIZE="18"/>
+<node COLOR="#990000" CREATED="1671659964334" HGAP="67" ID="ID_876427094" MODIFIED="1672622414720" TEXT="Afficher les ligues" VSHIFT="20">
+<edge COLOR="#00b439" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672491318854" HGAP="69" ID="ID_1901883948" MODIFIED="1672622438713" TEXT="Ajouter une ligue" VSHIFT="49">
+<edge COLOR="#00b439" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1672623040727" ID="ID_990016455" MODIFIED="1672623046222" TEXT="Nom de la ligue"/>
+</node>
+<node COLOR="#990000" CREATED="1672491318854" HGAP="71" ID="ID_400378698" MODIFIED="1672622688680" STYLE="bubble" TEXT="S&#xe9;lectionner une ligue" VSHIFT="43">
+<edge COLOR="#00b439" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#990000" CREATED="1672491318854" HGAP="88" ID="ID_745334536" MODIFIED="1673620300860" TEXT="&#xc9;diter une ligue" VSHIFT="-15">
+<edge COLOR="#00b439" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#ff0000" CREATED="1672622055583" HGAP="188" ID="ID_618695979" MODIFIED="1672622926416" TEXT="Afficher la ligue" VSHIFT="-14">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#ff0000" CREATED="1672622232287" HGAP="184" ID="ID_197530232" MODIFIED="1672786850821" TEXT="G&#xe9;rer les employ&#xe9;s de la ligue" VSHIFT="-21">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#0033ff" CREATED="1672622967504" HGAP="149" ID="ID_710623104" MODIFIED="1672786623665" TEXT="Afficher les ligues" VSHIFT="-23">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#0033ff" CREATED="1672622967504" HGAP="149" ID="ID_1381949513" MODIFIED="1672786853702" TEXT="Ajouter un employ&#xe9;" VSHIFT="-23">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1672623025319" ID="ID_664435807" MODIFIED="1672786736434" TEXT="Nom, Pr&#xe9;nom, Mot de passse">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1672622967504" HGAP="149" ID="ID_1042160841" MODIFIED="1672786853703" TEXT="Modifier un employ&#xe9;" VSHIFT="-23">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1672623262921" ID="ID_141250955" MODIFIED="1672623312603" TEXT="G&#xe9;rer le compte">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1672622967504" HGAP="149" ID="ID_433347949" MODIFIED="1672623508868" TEXT="Supprimer un employ&#xe9;" VSHIFT="-23">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1672622967504" HGAP="149" ID="ID_1262168884" MODIFIED="1672623312603" TEXT="Retour" VSHIFT="-23">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#ff0000" CREATED="1672622232287" HGAP="184" ID="ID_861001569" MODIFIED="1672622939882" TEXT="Renommer" VSHIFT="-21">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#ff0000" CREATED="1672622232287" HGAP="184" ID="ID_151524566" MODIFIED="1672622939883" TEXT="Supprimer" VSHIFT="-21">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#111111" CREATED="1672622232287" HGAP="184" ID="ID_1273807256" MODIFIED="1672622775348" TEXT="Retour" VSHIFT="-21">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1672491318854" HGAP="71" ID="ID_364357074" MODIFIED="1672622726646" TEXT="Retour" VSHIFT="43">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+</map>
