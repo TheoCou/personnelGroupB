@@ -133,7 +133,7 @@ public class LigueConsole
 		return new List<>("Changer l'administrateur de ligue", "o", 
                 () -> new ArrayList<>(ligue.getEmployes()),
                 (index, element) -> {ligue.setAdministrateur(element);}
-                ); 
+                );
 	}		
 
 	private List<Employe> modifierEmploye(final Ligue ligue)
